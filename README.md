@@ -4,7 +4,8 @@ I'm a junior software engineer that recently graduated from [Makers Academy](htt
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillerminaLorenzo&show_icons=true&theme=transparent)
 - 👀 I’m interested in new experiences and learning new things
 - 🌱 I’m currently learning AWS Cloud Practitioner Essentials
-- 📫 You can contact me [here](https://www.linkedin.com/in/guillermina-lorenzo-martinez-4752a0242/)
+- 📫 Contact me [here](https://www.linkedin.com/in/guillermina-lorenzo-martinez-4752a0242/)
+- 🤓 More information about [me](https://github.com/GuillerminaLorenzo/CV)
 
 ## Languages and Tools
 <div align="left">
