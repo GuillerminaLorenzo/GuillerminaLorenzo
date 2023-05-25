@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Guille
-I'm a junior software engineer that recently graduated from [Makers Academy](https://makers.tech/) a 4 months full-time coding bootcamp and I'm looking for my first job experience in tech.
+I'm a junior software engineer that recently graduated from [Makers Academy](https://makers.tech/) a 4 months full-time coding bootcamp.
+Currently working at the University of Southampton as Apprentice Junior Software Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillerminaLorenzo&show_icons=true&theme=transparent)
 - 👀 I’m interested in new experiences and learning new things
