@@ -2,7 +2,6 @@
 I'm a junior software engineer that recently graduated from [Makers Academy](https://makers.tech/) a 4 months full-time coding bootcamp.
 Currently working at the University of Southampton as Apprentice Junior Software Developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillerminaLorenzo&show_icons=true&theme=transparent)
 - 👀 I’m interested in new experiences and learning new things
 - 🌱 I’m currently learning React and NextJs
 - 📫 Contact me [here](https://www.linkedin.com/in/guillermina-lorenzo-martinez-4752a0242/)
